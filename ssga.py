@@ -11,7 +11,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
 
-url = 'https://www.ssga.com/uk/en_gb/intermediary/etfs/fund-finder'
+url = 'insert link here'
 
 main_window_handle = None
 while not main_window_handle:
