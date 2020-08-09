@@ -3,7 +3,7 @@ A collection of different projects I have created
 
 Python 101 Projects:
 
-Hangman Game: 
+[Hangman Game] (portfoliobyNiki/hangman 2.py): 
 A short and entertaining game of hangman, defines word after game is over
 
 Web Scarping app:
