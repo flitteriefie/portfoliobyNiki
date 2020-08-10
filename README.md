@@ -31,4 +31,7 @@ Simple multiple linear regression predicting a nation's happiness level based on
 [Weather LinReg](https://www.kaggle.com/nikolettaszab/second-world-war-weather-temperature-linreg):
 Extremely simple linear regression model predicting maximum temperature based in minimum temperature.
 
+[ComplaintsDB](https://github.com/flitteriefie/sqlitejsondatabase/blob/master/prettycode.py)
+My very first python project. I have connected to a JSON file supplied by the U.S. government and built up a relational database from the data using SQLite. 
+
 See my public [Tableau visualizations](https://public.tableau.com/profile/nikoletta.szab.#!/)!
