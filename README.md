@@ -30,6 +30,7 @@ Simple multiple linear regression predicting a nation's happiness level based on
 
 [Weather LinReg](https://www.kaggle.com/nikolettaszab/second-world-war-weather-temperature-linreg):
 Extremely simple linear regression model predicting maximum temperature based in minimum temperature.
+
 [Word2Vec/NLP Project for Clothing Reviews](https://www.kaggle.com/nikolettaszab/clothing-reviews-word2vec-analysis): I have trained a Word2Vec model on E-Commerce clothing reviews. How similar are the words 'little' and 'petite'? Let's find out!
 
 [ComplaintsDB](https://github.com/flitteriefie/sqlitejsondatabase/blob/master/prettycode.py)
