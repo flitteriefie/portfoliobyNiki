@@ -33,6 +33,8 @@ Extremely simple linear regression model predicting maximum temperature based in
 
 [Word2Vec/NLP Project for Clothing Reviews](https://www.kaggle.com/nikolettaszab/clothing-reviews-word2vec-analysis): I have trained a Word2Vec model on E-Commerce clothing reviews. How similar are the words 'little' and 'petite'? Let's find out!
 
+[Data Analyst Job Description](https://www.kaggle.com/nikolettaszab/data-anayst-job-description-word2vec): Word2Vec modelling on data analyst job description dataset. 
+
 [ComplaintsDB](https://github.com/flitteriefie/sqlitejsondatabase/blob/master/prettycode.py)
 My very first python project. I have connected to a JSON file supplied by the U.S. government and built up a relational database from the data using SQLite. 
 
